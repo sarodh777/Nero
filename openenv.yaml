@@ -1,0 +1,6 @@
+name: hospital-env
+description: Hospital resource allocation environment
+tasks:
+  - easy
+  - medium
+  - hard
